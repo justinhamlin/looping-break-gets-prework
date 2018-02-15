@@ -1,11 +1,13 @@
 
 def levitation_quiz
+  	answer = gets.chomp
+  	while answer != "Wingardium Leviosa"
+  	puts 
   
   
-  loop do
 	puts "What is the spell that enacts levitation?"
 	answer = gets.chomp
-	if answer == "Wingardium Leviosa"
+	while answer != "Wingardium Leviosa"
 	  break
 	puts "You passed the quiz!"
 	else
