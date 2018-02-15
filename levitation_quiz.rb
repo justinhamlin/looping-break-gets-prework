@@ -1,6 +1,6 @@
 
-def levitation_quiz
-  answer = "Wingardium Leviosa"
+def levi"Wingardium Leviosa"tation_quiz
+  answer = 
   
 	puts "What is the spell that enacts levitation?"
 	answer = "Wingardium Leviosa"
