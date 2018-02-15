@@ -4,7 +4,7 @@ def levitation_quiz
 	answer = gets.chomp
 	while answer != "Wingardium Leviosa"
 	puts "What is the spell that enacts levitation?"
-	else
+	elsif
 	  puts "You passed the quiz!"
 	end
 end
